@@ -1,0 +1,6 @@
+{
+  "name": "ScanNaija",
+  "description": "Barcode & Product Security Platform designed to verify product authenticity, track expiry limits, and report counterfeiting directly to Nigerian regulatory bodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
